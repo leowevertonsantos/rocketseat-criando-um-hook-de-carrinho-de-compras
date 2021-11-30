@@ -4,7 +4,6 @@ import {
   MdAddCircleOutline,
   MdRemoveCircleOutline,
 } from 'react-icons/md';
-import { toast } from 'react-toastify';
 
 import { useCart } from '../../hooks/useCart';
 import { formatPrice } from '../../util/format';
